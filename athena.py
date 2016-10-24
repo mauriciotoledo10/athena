@@ -1,5 +1,5 @@
 #!/usr/bin/python
-#Please note: this script is unstable in Windows, feel free to edit the compatibility :P
+#Please note: this script is unstable in Windows, feel free to do some changes:P
 '''                _    
                   | |   
   _ __   ___  _ __| | __
