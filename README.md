@@ -4,10 +4,11 @@
 This script was developed for those who want to learn more python
 
 ## OS
-Please use Linux to use this script, Windows is unstable whit def color(), feel free to edit the compatiblity.
+Linux (if you are using Windows, please do some changes before start the script)
 
 ## Project Status
 This project is currently in development
 
-## API Reference
-http://api.predator.wtf/
+## Credits
+Nork - Script
+http://api.predator.wtf/ - API
