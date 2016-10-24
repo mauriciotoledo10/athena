@@ -1,7 +1,7 @@
 # athena
 
 ## Synopsis
-This script was developed for those who want to learn more python
+This script was developed for those who want to learn python programming
 
 ## OS
 Linux (if you are using Windows, please do some changes before start the script)
